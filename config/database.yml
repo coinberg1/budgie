@@ -30,6 +30,6 @@ test:
 
 production:
   <<: *default
-  database: budgie
-  username: postgres
-  password: <%= ENV['POSTGRES_DATABASE_PASSWORD'] %>
+  database: d8l6cejqvhri40
+  username: guwegnryvonzyn
+  password: <%= ENV['zmUQ9q9NlnaQpabrTkv7o7NDug'] %>
